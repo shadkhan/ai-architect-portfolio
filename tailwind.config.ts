@@ -11,13 +11,12 @@ const config: Config = {
       colors: {
         ink: "#111417",
         graphite: "#1b2025",
-        steel: "#6f7a83",
-        porcelain: "#f4f1ea",
-        signal: "#0f8f8c",
-        ember: "#c98b42",
+        steel: "#64717d",
+        cloud: "#f5f7f8",
+        signal: "#0b7f79",
       },
       boxShadow: {
-        premium: "0 24px 80px rgba(17, 20, 23, 0.14)",
+        subtle: "0 18px 50px rgba(17, 20, 23, 0.08)",
       },
     },
   },

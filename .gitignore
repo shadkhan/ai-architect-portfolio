@@ -33,3 +33,5 @@ next-env.d.ts
 .eslintcache
 .turbo/
 coverage/
+
+AGENTS.md
